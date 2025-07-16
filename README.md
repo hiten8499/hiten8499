@@ -2,7 +2,7 @@
 
 I'm a full-stack developer passionate about building web apps, learning new tech, and sharing what I learn.
 
-- 🔭 I’m currently working on: A book management app using Node.js & MongoDB
+- 🔭 I’m currently working on: A Blog App Using MERN stack
 - 🌱 I’m currently learning: React.js & Docker
 - 👯 I’m looking to collaborate on: Node.js projects
 - 📫 How to reach me: purohithiten49@gmail.com
